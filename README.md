@@ -14,6 +14,7 @@ Leet Code solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ved1234566/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/Ved1234566/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -22,5 +23,10 @@ Leet Code solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ved1234566/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/Ved1234566/leetcode-solutions/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ved1234566/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
