@@ -7,10 +7,12 @@ Leet Code solutions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ved1234566/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ved1234566/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ved1234566/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ved1234566/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Ved1234566/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
